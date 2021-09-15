@@ -1,0 +1,36 @@
+.container{
+    background-color: lightgray;
+    width: 600px;
+    align-items: center;
+    padding: 10px 40px 20px 40px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    width: 500px;
+    margin-bottom: 20px;
+}
+#box1{
+    background-color: lightseagreen;
+}
+#box2{
+    background-color: limegreen;
+}
+#box3{
+    background-color: plum;
+}
+img{
+    width: 140px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 40px;
+}
+p{
+    text-align: center;
+}
